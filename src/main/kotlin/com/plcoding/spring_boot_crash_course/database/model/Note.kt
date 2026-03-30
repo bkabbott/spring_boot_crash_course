@@ -1,4 +1,4 @@
-package com.plcoding.spring_boot_crash_course.model
+package com.plcoding.spring_boot_crash_course.databaswe.model
 
 import org.bson.types.ObjectId
 import org.springframework.data.annotation.Id
